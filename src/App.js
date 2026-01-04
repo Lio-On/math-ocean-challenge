@@ -8,7 +8,7 @@ import Results from './pages/Results';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/math-ocean-challenge">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/game/:difficulty" element={<Game />} />
