@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math-ocean-challenge/static/css/main.b9a170cf.css",
+    "main.js": "/math-ocean-challenge/static/js/main.34c5e108.js",
+    "index.html": "/math-ocean-challenge/index.html",
+    "main.b9a170cf.css.map": "/math-ocean-challenge/static/css/main.b9a170cf.css.map",
+    "main.34c5e108.js.map": "/math-ocean-challenge/static/js/main.34c5e108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9a170cf.css",
+    "static/js/main.34c5e108.js"
+  ]
+}
